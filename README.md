@@ -102,7 +102,8 @@ The dashboard enables users to:
 - Evaluate salary distribution.
 - Analyze employee tenure.
 - Filter insights by department.
-<img width="1176" height="662" alt="HR" src="https://github.com/user-attachments/assets/071cafcd-c6cc-4e23-a271-119521c51aa1" /> 
+<img width="1514" height="838" alt="Screenshot (916)" src="https://github.com/user-attachments/assets/c9df688f-0421-4aef-af68-b1574619e2eb" />
+
 
 # 7. Key Insights
 
