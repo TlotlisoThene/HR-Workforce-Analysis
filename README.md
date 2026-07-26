@@ -7,11 +7,10 @@
 4. [Business Objectives](#4-business-objectives)
 5. [Tools & Technologies](#5-tools--technologies)
 6. [Methodology](#6-methodology)
-7. [Dashboard](#7-dashboard)
-8. [Key Insights](#8-key-insights)
-9. [Business Recommendations](#9-business-recommendations)
-10. [Challenges & Limitations](#10-challenges--limitations)
-11. [Author](#11-author)
+7. [Key Insights](#8-key-insights)
+8. [Business Recommendations](#9-business-recommendations)
+9. [Challenges & Limitations](#10-challenges--limitations)
+10. [Author](#11-author)
 
 ---
 
@@ -21,8 +20,6 @@ This project presents an interactive **HR Analytics Dashboard** developed in **P
 
 The dashboard transforms raw HR data into meaningful insights, enabling organizations to identify workforce trends, understand the key drivers of employee turnover, and support data-driven workforce planning and retention strategies.
 
----
-
 # 2. Business Background
 
 Employee attrition is one of the biggest challenges faced by organizations. High turnover increases recruitment costs, reduces productivity, and affects overall business performance.
@@ -30,8 +27,6 @@ Employee attrition is one of the biggest challenges faced by organizations. High
 HR departments require timely insights into employee demographics, job roles, education levels, salaries, and years of service to better understand why employees leave and to develop effective retention strategies.
 
 An interactive HR dashboard allows decision-makers to monitor workforce metrics, identify high-risk employee groups, and make informed human resource decisions.
-
----
 
 # 3. Business Problem
 
@@ -46,8 +41,6 @@ Management wanted to answer key business questions such as:
 - How does education level affect employee retention?
 - Which departments require immediate retention strategies?
 
----
-
 # 4. Business Objectives
 
 The primary objectives of this project are to:
@@ -59,8 +52,6 @@ The primary objectives of this project are to:
 - Monitor key HR metrics such as employee count, average salary, average age, and attrition rate.
 - Develop an interactive dashboard that enables HR managers to monitor workforce trends and support strategic decision-making.
 
----
-
 # 5. Tools & Technologies
 
 | Tool | Purpose |
@@ -69,8 +60,6 @@ The primary objectives of this project are to:
 | Power Query | Data Transformation |
 | Power BI | Data Modeling, Dashboard Development & Visualization |
 | DAX | KPI Calculations & Measures |
-
----
 
 # 6. Methodology
 
@@ -101,8 +90,6 @@ Key calculations included:
 
 Additional calculated measures were created using DAX to analyze employee attrition across multiple dimensions.
 
----
-
 ## 2. Dashboard Development
 
 An interactive Power BI dashboard was designed to provide HR stakeholders with an overview of workforce performance and employee attrition.
@@ -115,34 +102,9 @@ The dashboard enables users to:
 - Evaluate salary distribution.
 - Analyze employee tenure.
 - Filter insights by department.
+<img width="1176" height="662" alt="HR" src="https://github.com/user-attachments/assets/071cafcd-c6cc-4e23-a271-119521c51aa1" /> 
 
----
-
-# 7. Dashboard
-
-The dashboard provides an interactive overview of employee attrition and workforce performance through dynamic visualizations and KPI cards.
-
-### Dashboard Highlights
-
-- Employee Count
-- Attrition Count
-- Attrition Rate
-- Average Salary
-- Average Age
-- Average Years at Company
-- Attrition by Education
-- Attrition by Age Group
-- Attrition by Job Role
-- Attrition by Salary Slab
-- Attrition by Gender
-- Attrition by Years at Company
-- Department Filter
-
-> **Insert dashboard screenshot here**
-
----
-
-# 8. Key Insights
+# 7. Key Insights
 
 The dashboard analysis revealed several important workforce insights:
 
@@ -154,9 +116,8 @@ The dashboard analysis revealed several important workforce insights:
 - Male employees accounted for **140 attrition cases**, compared to **79 female employees**, indicating higher employee turnover among males.
 - Employee attrition was highest during the early years of employment, with a noticeable decline as employee tenure increased.
 
----
 
-# 9. Business Recommendations
+# 8. Business Recommendations
 
 Based on the analysis, the following recommendations were made:
 
@@ -184,9 +145,7 @@ Regularly monitor employees within the 26–35 age group and lower salary bracke
 
 Use dashboard insights to support recruitment planning, succession planning, and departmental workforce management.
 
----
-
-# 10. Challenges & Limitations
+# 9. Challenges & Limitations
 
 ### Challenges
 
@@ -201,16 +160,10 @@ Use dashboard insights to support recruitment planning, succession planning, and
 - External factors such as employee satisfaction, organizational culture, and economic conditions were not included in the dataset.
 - Additional employee engagement metrics could provide deeper insights into the causes of attrition.
 
----
-
-# 11. Author
+# 10. Author
 
 **Thene Tlotliso**
 
 - 🔗 LinkedIn: [Your LinkedIn URL]
 - 💼 Portfolio: https://tlotlisothene.github.io/
 - 📧 Email: thenetlotliso@gmail.com
-
----
-
-*Last updated: July 2026*
